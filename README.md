@@ -15,6 +15,7 @@ Dua pemain dapat bermain bersama di satu komputer. Pemain menggerakkan raket unt
 Pemain 1 (Raket Kiri)
 - W = Naik
 - S = Turun
+  
 Pemain 2 (Raket Kanan)
 - UP Arrow = Naik
 - Down Arrow = Turun
